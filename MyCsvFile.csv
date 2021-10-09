@@ -1,0 +1,3 @@
+﻿id,name,nestedobject/id,nestedobject/name,nestedarray/0/name,nestedarray/0/city,nestedarray/1/name,nestedarray/1/city
+							1,Tomy22,nestedobject_id1,nestedobject_name1,nestedarray0_name_1,nestedarray0_city_1,nestedarray1_name_1,nestedarray1_city_1
+							2,Mark22,nestedobject_id2,nestedobject_name2,nestedarray0_name_2,nestedarray0_city_2,nestedarray1_name_2,nestedarray1_city_2
